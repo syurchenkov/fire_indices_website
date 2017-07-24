@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'excon'
+gem 'sqlite3'
+gem 'rspec'
+gem 'sequel'
+gem 'rack'
+gem 'sinatra'
+gem 'json'
+gem 'thin'
